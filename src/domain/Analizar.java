@@ -1,4 +1,4 @@
-//Proyecto Final de Automatas II
+//Proyecto Final de Automatas II Analizador Lexico
 package domain;
 
 import java.util.StringTokenizer;
